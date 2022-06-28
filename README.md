@@ -1,4 +1,4 @@
-# ml-classification-1
+# ml-classification-exoplanets
 
 Author: Erin James Wills, ejw.data@gmail.com  
 
